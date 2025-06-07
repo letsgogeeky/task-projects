@@ -1,7 +1,3 @@
-Here’s another interesting project idea that adds **inheritance**, along with **multithreading**, **mutex usage**, and **modular class design** — perfectly sized for a 1–2 day implementation:
-
----
-
 ## 🚦 **Project Title: Multithreaded Traffic Simulation**
 
 ### 🧠 **Idea**
